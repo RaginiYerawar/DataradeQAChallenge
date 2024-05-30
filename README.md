@@ -5,10 +5,10 @@ This repository contains tests for requested scenarios.
 
 **Technology Stack:**
 
--Cypress testing framework
--Javascript
--Page Object Model (POM) for a clean and maintainable test structure
--Cucumber
+- Cypress testing framework
+- Javascript
+- Page Object Model (POM) for a clean and maintainable test structure
+- Cucumber
 
 **How to Use:**
 
@@ -26,6 +26,7 @@ This repository contains tests for requested scenarios.
     3. npx cypress run
 
     Note: 
+    - Somehow I am not able to create a html report(due to techniqal issues). I am attaching screenshots of already run tests.  
 
     
 
