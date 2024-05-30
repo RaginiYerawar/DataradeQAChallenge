@@ -25,8 +25,16 @@ This repository contains tests for requested scenarios.
     2. npm install
     3. npx cypress run
 
-    Note: 
-    - Somehow I am not able to create a html report(due to techniqal issues). I am attaching screenshots of already run tests.  
+Note: 
+    - Somehow I am not able to create a html report(due to techniqal issues). I am attaching screenshots of already run tests.
+
+![image](https://github.com/RaginiYerawar/DataradeQAChallenge/assets/90747766/273a27a8-1cbc-4967-98a0-2df2b804e133)
+
+
+
+
+
+
 
     
 
