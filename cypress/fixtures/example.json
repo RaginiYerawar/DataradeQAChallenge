@@ -1,0 +1,9 @@
+{
+  "incorrectCred" : ["xyz", "xyz"],
+  "errorMessage" : "Invalid email or password",
+  "correctCred" : ["admin@juice-sh.op", "admin123"],
+  "englishText": ["English", "All Products","Contact"],
+  "ceskyText": ["Česky", "Všechny produkty","Kontakt"],
+  "numberOfItemsPerPage": "12",
+  "successMessage" : ["You successfully solved a challenge: Password Strength (Log in with the administrator's user credentials without previously changing them or applying SQL Injection.)X","You successfully solved a challenge: Login Admin (Log in with the administrator's user account.)X"]
+}
